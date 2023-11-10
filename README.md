@@ -1,8 +1,24 @@
-### Hi there 👋
+![stars](https://img.shields.io/github/stars/Tqnsls?label=Total%20Stars&style=flat-square)
+![followers](https://img.shields.io/github/followers/Tqnsls?label=Followers&style=flat-square)
+
+# Hello World 👋
+I am someone!
+
+<!--- // ## Connect with me --->
+<!--- // [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/) --->
+<!--- // [![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)](https://www.xing.com/profile/) --->
+
+## Expertise
+![mysql](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=) \
+![Icinga2](https://img.shields.io/static/v1?style=for-the-badge&message=Icinga2&color=2b95ff&logo=icinga&logoColor=FFFFFF&label=) \
+![Icingaweb2](https://img.shields.io/static/v1?style=for-the-badge&message=Icingaweb2&color=2b95ff&logo=icinga&logoColor=FFFFFF&label=) \
+![docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) \
+![grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=) 
+
+
+
 
 <!--
-**Tqnsls/Tqnsls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
